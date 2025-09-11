@@ -63,7 +63,7 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 
 ## 🏅 Badges
 
-<img src="images/aws-certified-ai-practitioner-1.png" alt="AWS AI Badge" width="80"/>
+<img src="images/aipractitioner,png" alt="AWS AI Badge" width="80"/>
 
 
 
