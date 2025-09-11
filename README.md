@@ -63,9 +63,13 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 
 ## 🏅 Badges
 
-<img src="images/aipractitioner,png" alt="AWS AI Badge" width="80"/>
-
-
+<img src="images/AWSMLSPEC.png" alt="AWS AI Badge" width="80"/>
+<img src="images/GCPDE.png" alt="AWS AI Badge" width="80"/>
+<img src="images/HCTA.png" alt="AWS AI Badge" width="80"/>
+<img src="images/AWSCDEVA.png" alt="AWS AI Badge" width="80"/>
+<img src="images/AWSCSAA.png" alt="AWS AI Badge" width="80"/>
+<img src="images/AWSAIP.png" alt="AWS AI Badge" width="80"/>
+<img src="images/AWSCP.png" alt="AWS AI Badge" width="80"/>
 
 <!--
 **Ganasai-Palakurthi/Ganasai-Palakurthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
