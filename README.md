@@ -23,10 +23,10 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 
 ## 📜 Certifications
 - **Certified Kubernetes Application Developer - In Progress**
-- ***AWS Certified Solutions Architect - Associate***
-- ***AWS Certified Developer – Associate***
 - ***AWS Certified Machine Learning - Specialty***
 - ***GCP Professional Data Engineer***
+- ***AWS Certified Solutions Architect - Associate***
+- ***AWS Certified Developer – Associate***
 - ***Hashi Corp Certified: Terraform Associate (003)***
 - AWS Certified Cloud Practitioner
 - AWS Certified AI Practitioner - Beta
