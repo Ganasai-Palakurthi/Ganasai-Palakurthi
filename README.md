@@ -28,7 +28,7 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 - ***AWS Certified Solutions Architect - Associate***
 - ***AWS Certified Developer – Associate***
 - ***Hashi Corp Certified: Terraform Associate (003)***
-- AWS Certified Cloud Practitioner (images/aws-certified-ai-practitioner (1).png)
+- AWS Certified Cloud Practitioner 
 - AWS Certified AI Practitioner - Beta
 - AWS Cloud Quest: Cloud Practitioner
 - Academy Accreditation - Databricks Fundamentals
@@ -60,6 +60,10 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 - [LinkedIn](https://www.linkedin.com/in/your-link)  
 - [Portfolio](https://yourwebsite.com)  
 - [Email](mailto:your.email@example.com)
+
+## 🏅 Badges
+
+![AWS Cloud Practitioner] (images/aws-certified-ai-practitioner (1).png)
 
 <!--
 **Ganasai-Palakurthi/Ganasai-Palakurthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
