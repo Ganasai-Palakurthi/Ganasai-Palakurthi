@@ -28,7 +28,7 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 - ***AWS Certified Solutions Architect - Associate***
 - ***AWS Certified Developer – Associate***
 - ***Hashi Corp Certified: Terraform Associate (003)***
-- AWS Certified Cloud Practitioner
+- AWS Certified Cloud Practitioner (images/aws-certified-ai-practitioner (1).png)
 - AWS Certified AI Practitioner - Beta
 - AWS Cloud Quest: Cloud Practitioner
 - Academy Accreditation - Databricks Fundamentals
