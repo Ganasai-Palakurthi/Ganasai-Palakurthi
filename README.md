@@ -6,9 +6,16 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 
 ## 💼 Professional Summary
 - 6+ years of experience in **application development, deployment, and CI/CD pipelines**.  
-- Experienced across **full dev-to-prod lifecycle**, from design & analysis to production deployment.  
-- Skilled in **cloud platforms (AWS, GCP), Docker, Kubernetes**, and building **scalable ETL/data pipelines**.  
-- Currently exploring **Data & AI/ML**, machine learning models, and big data analytics.
+- Experienced across the **full dev-to-prod lifecycle**, from design & analysis to production deployment.  
+- Skilled in **cloud platforms (AWS, GCP)**, **Docker**, **Kubernetes**, and building **scalable ETL/data pipelines**.  
+- Strong experience with **Java, JavaScript, SQL, Python**, and modern web technologies including **Angular, Spring Boot, and RESTful APIs**.  
+- Proficient in **RDBMS (Oracle, MySQL, SQL Server)** and **NoSQL databases (MongoDB, Cassandra)**.  
+- Hands-on experience with **data processing frameworks**: Spark (PySpark), Hadoop, Hive, Kafka, MLlib.  
+- Currently exploring **Data & AI/ML**, machine learning models, and big data analytics.  
+- Familiar with **DevOps best practices**: build tools (Maven, Gradle, Ant), CI/CD (Jenkins), containerization & orchestration (Docker, Kubernetes).  
+- Experienced in **software development methodologies**: Agile, Scrum, RUP, and using tools like Jira & Rally.  
+- Adept at collaborating in **cross-functional teams**, mentoring juniors, and driving **end-to-end project delivery**.  
+- Passionate about **innovation, cloud-native architectures, and data-driven solutions**, continuously learning new technologies.
 
 ---
 
