@@ -1,4 +1,4 @@
-# 👋 Hi there, welcome to my professional world!
+# 👋 Hi There, Welcome to My Professional World!
 
 I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over **6 years of experience** in application development, full dev-to-prod lifecycle, CI/CD, deployments, cloud, and Data/AI/ML exploration.
 
@@ -78,10 +78,13 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 
 ---
 
-## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Portfolio](https://yourwebsite.com)  
-- [Email](mailto:your.email@example.com)
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/palakurthi-ganasai" target="_blank">💼 LinkedIn</a> &nbsp;&nbsp;
+  <a href="https://yourwebsite.com" target="_blank">🌐 Portfolio</a> &nbsp;&nbsp;
+  <a href="mailto:ganasaip98@gmail.com" target="_blank">✉️ Email</a>
+</p>
 
 ## 🏅 Badges
 
