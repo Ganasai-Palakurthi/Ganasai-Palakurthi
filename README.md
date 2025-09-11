@@ -22,14 +22,14 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 ---
 
 ## 📜 Certifications
-- AWS Certified Solutions Architect - Associate
+- ***AWS Certified Solutions Architect - Associate***
 - AWS Certified Developer – Associate
-- AWS Certified Machine Learning - Specialty
+- ***AWS Certified Machine Learning - Specialty***
 - AWS Certified Cloud Practitioner
 - AWS Certified AI Practitioner - Beta
 - AWS Cloud Quest: Cloud Practitioner
-- GCP Professional Data Engineer
-- Hashi Corp Certified: Terraform Associate (003)
+- ***GCP Professional Data Engineer***
+- **Hashi Corp Certified: Terraform Associate (003)**
 - Academy Accreditation - Databricks Fundamentals
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals
 - GitHub Foundations
@@ -37,7 +37,7 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 - TigerGraph Associate
 - Apache Cassandra 3 Developer certification
 - Apache Cassandra 3 Administrator certification.
-- Certified Kubernetes Application Developer - In Progress
+- **Certified Kubernetes Application Developer - In Progress**
 
 
 ---
