@@ -13,6 +13,9 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 ---
 
 ## 🎓 Education
+
+- **Master's in Computer Science**, Kent State University, May 2025. 
+- [Any additional relevant courses or specializations]
 - **Bachelor's in [Your Degree]**, [Your University], [Year]  
 - [Any additional relevant courses or specializations]
 
