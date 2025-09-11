@@ -32,12 +32,15 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 | **XML / Web Services**    | XML, XSD, SOA, WSDL, SOAP, Apache CXF, DOM, SAX, JAXWS, JAXRS, XML Beans, REST, JAXB, Restful |
 | **Frameworks**            | Struts, Hibernate ORM, Spring MVC, Spring Boot, Spring AOP, Selenium, Mockito, JUnit, Protractor, Cucumber |
 | **Databases**             | **RDBMS:** Oracle, MySQL, SQL-Server <br> **NoSQL:** MongoDB, Cassandra |
+| **Data & AI/ML**          | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Spark (PySpark), MLlib, Hadoop, Hive, Kafka |
 | **Web / Application Servers** | Apache Tomcat, JBoss, WebSphere, WebLogic |
 | **IDEs**                  | Eclipse, STS, IntelliJ, WebStorm |
-| **Cloud / Platforms**     | AWS (IAM, EC2, CloudWatch, ELB, Elastic Beanstalk, VPC, S3, EBS, CloudFormation, Storage Gateway, AutoScaling, NLB, ALB, RDS, SNS, Route 53), GCP |
+| **Cloud / Platforms**     | **AWS:** IAM, EC2, CloudWatch, ELB, Elastic Beanstalk, VPC, S3, EBS, CloudFormation, Storage Gateway, AutoScaling, NLB, ALB, RDS, SNS, Route 53, Redshift, SageMaker, Athena, EMR, Glue, Kinesis <br> **GCP:** Compute Engine, Cloud Storage, VPC, BigQuery, Pub/Sub, Cloud Functions, Kubernetes Engine, Vertex AI, Dataflow, Dataproc, BigTable |
 | **Version Control & Tools** | GIT, SVN, JIRA, Rally |
 | **Methodologies**         | UML, RUP, Scrum, Jira, Agile |
-| **DevOps Tools**          | Ant, Maven, Gradle, Docker, Jenkins, Kubernetes |
+| **Build Tools**           | Ant, Maven, Gradle |
+| **DevOps Tools**          | Docker, Jenkins, Kubernetes |
+
 
 ---
 
