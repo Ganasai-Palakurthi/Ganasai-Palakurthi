@@ -39,7 +39,7 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 | **Version Control & Tools** | GIT, SVN, JIRA, Rally |
 | **Methodologies**         | UML, RUP, Scrum, Jira, Agile |
 | **Build Tools**           | Ant, Maven, Gradle |
-| **DevOps Tools**          | Docker, Jenkins, Kubernetes |
+| **DevOps Tools**          | Terraform, Docker, Jenkins, Kubernetes |
 
 
 ---
