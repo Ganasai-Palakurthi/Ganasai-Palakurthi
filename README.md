@@ -12,6 +12,35 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 
 ---
 
+## 🎓 Education
+
+- **Master's in Computer Science**, Kent State University, May 2025. 
+- will include few projects and courses
+- **Bachelor's in Electronics and Communication Engineering**, JNTUK, May 2019.  
+- should include few personal projects
+
+---
+
+## 🛠️ Tech Stack
+
+| Category                  | Technologies |
+|---------------------------|--------------|
+| **Operating Systems**     | Windows, Unix, Linux |
+| **Languages**             | Java, JavaScript, Python, SQL, HQL, PL/SQL |
+| **Java / J2EE Technologies** | Java EE, Servlets, JSP, JSTL, XSLT, JDBC, JNDI, JMS, JPA, JSF |
+| **Web Technologies**      | HTML5, CSS3, JavaScript, AJAX, Angular 4/5/6, Angular JS, Angular 14, jQuery, Express, Bootstrap |
+| **XML / Web Services**    | XML, XSD, SOA, WSDL, SOAP, Apache CXF, DOM, SAX, JAXWS, JAXRS, XML Beans, REST, JAXB, Restful |
+| **Frameworks**            | Struts, Hibernate ORM, Spring MVC, Spring Boot, Spring AOP, Selenium, Mockito, JUnit, Protractor, Cucumber |
+| **Databases**             | **RDBMS:** Oracle, MySQL, SQL-Server <br> **NoSQL:** MongoDB, Cassandra |
+| **Web / Application Servers** | Apache Tomcat, JBoss, WebSphere, WebLogic |
+| **IDEs**                  | Eclipse, STS, IntelliJ, WebStorm |
+| **Cloud / Platforms**     | AWS (IAM, EC2, CloudWatch, ELB, Elastic Beanstalk, VPC, S3, EBS, CloudFormation, Storage Gateway, AutoScaling, NLB, ALB, RDS, SNS, Route 53), GCP |
+| **Version Control & Tools** | GIT, SVN, JIRA, Rally |
+| **Methodologies**         | UML, RUP, Scrum, Jira, Agile |
+| **DevOps Tools**          | Ant, Maven, Gradle, Docker, Jenkins, Kubernetes |
+
+---
+
 ## 📜 Certifications
 - **Certified Kubernetes Application Developer - In Progress**
 - ***AWS Certified Machine Learning - Specialty***
@@ -29,22 +58,6 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 - TigerGraph Associate
 - Apache Cassandra 3 Developer certification
 - Apache Cassandra 3 Administrator certification.
-
----
-
-## 🎓 Education
-
-- **Master's in Computer Science**, Kent State University, May 2025. 
-- will include few projects and courses
-- **Bachelor's in Electronics and Communication Engineering**, JNTUK, May 2019.  
-- should include few personal projects
-
----
-
-## 🛠️ Tech Stack
-- **Languages:** Java, Python, SQL  
-- **Cloud & DevOps:** AWS, GCP, CI/CD, Docker, Kubernetes  
-- **Data & AI/ML:** Spark, PySpark, Pandas, scikit-learn  
 
 ---
 
