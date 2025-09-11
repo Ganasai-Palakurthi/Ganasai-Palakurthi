@@ -12,15 +12,6 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 
 ---
 
-## 🎓 Education
-
-- **Master's in Computer Science**, Kent State University, May 2025. 
-- will include few projects and courses
-- **Bachelor's in Electronics and Communication Engineering**, JNTUK, May 2019.  
-- should include few personal projects
-
----
-
 ## 📜 Certifications
 - **Certified Kubernetes Application Developer - In Progress**
 - ***AWS Certified Machine Learning - Specialty***
@@ -39,6 +30,14 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 - Apache Cassandra 3 Developer certification
 - Apache Cassandra 3 Administrator certification.
 
+---
+
+## 🎓 Education
+
+- **Master's in Computer Science**, Kent State University, May 2025. 
+- will include few projects and courses
+- **Bachelor's in Electronics and Communication Engineering**, JNTUK, May 2019.  
+- should include few personal projects
 
 ---
 
@@ -72,8 +71,6 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
   <img src="images/AWSAIP.png" alt="AWS AI Badge" width="80"/>
   <img src="images/AWSCP.png" alt="AWS CP Badge" width="80"/>
 </p>
-
-
 
 <!--
 **Ganasai-Palakurthi/Ganasai-Palakurthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
