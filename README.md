@@ -39,6 +39,8 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 - Apache Cassandra 3 Administrator certification.
 - Certified Kubernetes Application Developer - <span style="color:green"> In Progress </span> 
 
+<span style="color:green">This text is green ✅</span>
+<span style="color:red">This text is red ❌</span>
 
 ---
 
