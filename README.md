@@ -15,15 +15,30 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 ## 🎓 Education
 
 - **Master's in Computer Science**, Kent State University, May 2025. 
-- [Any additional relevant courses or specializations]
-- **Bachelor's in [Your Degree]**, [Your University], [Year]  
-- [Any additional relevant courses or specializations]
+- will include few projects and courses
+- **Bachelor's in Electronics and Communication Engineering**, JNTUK, May 2019.  
+- should include few personal projects
 
 ---
 
 ## 📜 Certifications
-- AWS Certified Solutions Architect (or your relevant certs)  
-- [Other certifications, e.g., CI/CD, Data Engineering, AI/ML]
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Developer – Associate
+- AWS Certified Machine Learning - Specialty
+- AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner - Beta
+- AWS Cloud Quest: Cloud Practitioner
+- GCP Professional Data Engineer
+- Hashi Corp Certified: Terraform Associate (003)
+- Academy Accreditation - Databricks Fundamentals
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals
+- GitHub Foundations
+- TigerGraph for ML
+- TigerGraph Associate
+- Apache Cassandra 3 Developer certification
+- Apache Cassandra 3 Administrator certification.
+- Certified Kubernetes Application Developer - <span style="color:green"> In Progress </span> 
+
 
 ---
 
