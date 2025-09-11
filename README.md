@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, welcome to my professional world! 👋
+
+I'm **Ganasai Palakurthi**, a passionate **Full Stack Developer and Data Engineer** with over **6 years of professional experience** in application development.  
+During this time, I have had the opportunity to work across multiple phases of the **software development lifecycle (SDLC)** — from designing and developing robust applications to deploying them in production and ensuring smooth **CI/CD pipelines**. 
 
 <!--
 **Ganasai-Palakurthi/Ganasai-Palakurthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
