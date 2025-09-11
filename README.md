@@ -63,13 +63,16 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 
 ## 🏅 Badges
 
-<img src="images/AWSMLSPEC.png" alt="AWS ML Badge" width="80" style="margin-right:10px;"/>
-<img src="images/GCPDE.png" alt="GCP Data Engineer Badge" width="80" style="margin-right:10px;"/>
-<img src="images/HCTA.png" alt="HCTA Badge" width="80" style="margin-right:10px;"/>
-<img src="images/AWSCDEVA.png" alt="AWS Dev Badge" width="80" style="margin-right:10px;"/>
-<img src="images/AWSCSAA.png" alt="AWS CSAA Badge" width="80" style="margin-right:10px;"/>
-<img src="images/AWSAIP.png" alt="AWS AI Badge" width="80" style="margin-right:10px;"/>
-<img src="images/AWSCP.png" alt="AWS CP Badge" width="80"/>
+<p align="center">
+  <img src="images/AWSMLSPEC.png" alt="AWS ML Badge" width="80"/>
+  <img src="images/GCPDE.png" alt="GCP DE Badge" width="80"/>
+  <img src="images/HCTA.png" alt="HCTA Badge" width="80"/>
+  <img src="images/AWSCDEVA.png" alt="AWS Dev Badge" width="80"/>
+  <img src="images/AWSCSAA.png" alt="AWS CSAA Badge" width="80"/>
+  <img src="images/AWSAIP.png" alt="AWS AI Badge" width="80"/>
+  <img src="images/AWSCP.png" alt="AWS CP Badge" width="80"/>
+</p>
+
 
 
 <!--
