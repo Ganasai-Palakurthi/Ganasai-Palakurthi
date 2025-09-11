@@ -3,6 +3,12 @@
 I'm **Ganasai Palakurthi**, a passionate **Full Stack Developer and Data Engineer** with over **6 years of professional experience** in application development.  
 During this time, I have had the opportunity to work across multiple phases of the **software development lifecycle (SDLC)** — from designing and developing robust applications to deploying them in production and ensuring smooth **CI/CD pipelines**. 
 
+My experience spans the **entire dev-to-prod lifecycle**, including **development, testing, deployment, and monitoring** of applications. I have hands-on expertise in **cloud platforms (AWS, GCP)**, containerization tools like **Docker**, orchestration with **Kubernetes**, and building **scalable, efficient ETL/data pipelines**.  
+
+In addition to full stack development and DevOps practices, I am **exploring the field of Data & AI/ML**, applying machine learning models, analyzing big datasets with **Spark and PySpark**, and creating solutions that leverage **AI for business insights**.  
+
+I am passionate about building **scalable, high-performance applications**, automating workflows, and continuously learning and experimenting with the latest technologies in software development, cloud, and data engineering.
+
 <!--
 **Ganasai-Palakurthi/Ganasai-Palakurthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
