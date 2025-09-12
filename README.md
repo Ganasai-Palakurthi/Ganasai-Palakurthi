@@ -74,10 +74,10 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 ## 💻 Projects
 
 ### 🌐 Terraform / Cloud Infrastructure
-- **Provisioning an AWS EMR Cluster with Terraform:**  
-  [View on GitHub](https://github.com/Ganasai-Palakurthi/EMR_Terraform.git)
-
-
+- **Provisioning an AWS EMR Cluster:**  
+  [EMR Cluster using Terraform](https://github.com/Ganasai-Palakurthi/EMR_Terraform.git)
+- **Provisioning EKS with Self-Managed Node Groups:**
+  [EKS with Self-Managed Node Groups using Terraform](https://github.com/Ganasai-Palakurthi/EKS_SelfManagedNodeGroups_Terraform.git)
 ---
 
 ## 📫 Connect with Me
