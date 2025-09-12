@@ -71,10 +71,12 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 
 ---
 
-## 🚀 Projects
-- **Project 1:** Brief description + [GitHub link]  
-- **Project 2:** Brief description + [GitHub link]  
-- **Project 3:** Brief description + [GitHub link]  
+## 💻 Projects
+
+### 🌐 Terraform / Cloud Infrastructure
+- **Provisioning an AWS EMR Cluster with Terraform:**  
+  [View on GitHub](https://github.com/Ganasai-Palakurthi/EMR_Terraform.git)
+
 
 ---
 
