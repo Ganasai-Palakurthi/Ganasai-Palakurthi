@@ -90,7 +90,6 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 
 <p align="center">
   <a href="https://www.linkedin.com/in/palakurthi-ganasai" target="_blank">💼 LinkedIn</a> &nbsp;&nbsp;
-  <a href="https://yourwebsite.com" target="_blank">🌐 Portfolio</a> &nbsp;&nbsp;
   <a href="mailto:ganasaip98@gmail.com" target="_blank">✉️ Email</a> &nbsp;&nbsp;
   <a href="https://medium.com/@ganasai88" target="_blank">📝 Medium</a> &nbsp;&nbsp;
 </p>
