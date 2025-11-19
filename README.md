@@ -69,6 +69,7 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 - TigerGraph Associate
 - Apache Cassandra 3 Developer certification
 - Apache Cassandra 3 Administrator certification.
+- SnowPro Associate: Platform Certification
 
 ---
 
