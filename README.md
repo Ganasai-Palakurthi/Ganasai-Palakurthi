@@ -1,11 +1,11 @@
 # 👋 Hi There, Welcome to My Professional World!
 
-I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over **6 years of experience** in application development, full dev-to-prod lifecycle, CI/CD, deployments, cloud, and Data/AI/ML exploration.
+I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over **5 years of experience** in application development, full dev-to-prod lifecycle, CI/CD, deployments, cloud, and Data/AI/ML exploration.
 
 ---
 
 ## 💼 Professional Summary
-- 6+ years of experience in **application development, deployment, and CI/CD pipelines**.  
+- Around 5 years of experience in **application development, deployment, and CI/CD pipelines**.  
 - Experienced across the **full dev-to-prod lifecycle**, from design & analysis to production deployment.  
 - Skilled in **cloud platforms (AWS, GCP)**, **Docker**, **Kubernetes**, and building **scalable ETL/data pipelines**.  
 - Strong experience with **Java, JavaScript, SQL, Python**, and modern web technologies including **Angular, Spring Boot, and RESTful APIs**.  
@@ -42,6 +42,7 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 | **Data & AI/ML**          | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Spark (PySpark), MLlib, Hadoop, Hive, Kafka |
 | **Web / Application Servers** | Apache Tomcat, JBoss, WebSphere, WebLogic |
 | **IDEs**                  | Eclipse, STS, IntelliJ, WebStorm |
+| **Orchestration**         | Control M, Airflow |
 | **Cloud / Platforms**     | **AWS:** IAM, EC2, CloudWatch, ELB, Elastic Beanstalk, VPC, S3, EBS, CloudFormation, Storage Gateway, AutoScaling, NLB, ALB, RDS, SNS, Route 53, Redshift, SageMaker, Athena, EMR, Glue, Kinesis <br> **GCP:** Compute Engine, Cloud Storage, VPC, BigQuery, Pub/Sub, Cloud Functions, Kubernetes Engine, Vertex AI, Dataflow, Dataproc, BigTable |
 | **Version Control & Tools** | GIT, SVN, JIRA, Rally |
 | **Methodologies**         | UML, RUP, Scrum, Jira, Agile |
@@ -52,7 +53,7 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 ---
 
 ## 📜 Certifications
-- **Certified Kubernetes Application Developer - In Progress**
+- ***CKAD: Certified Kubernetes Application Developer***
 - ***AWS Certified Machine Learning - Specialty***
 - ***GCP Professional Data Engineer***
 - ***AWS Certified Solutions Architect - Associate***
