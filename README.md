@@ -98,6 +98,7 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 ## 🏅 Badges
 
 <p align="center">
+  <img src="images/CKAD.png" alt="CKAD Badge" width="80"/>
   <img src="images/AWSMLSPEC.png" alt="AWS ML Badge" width="80"/>
   <img src="images/GCPDE.png" alt="GCP DE Badge" width="80"/>
   <img src="images/HCTA.png" alt="HCTA Badge" width="80"/>
