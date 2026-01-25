@@ -86,6 +86,10 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
   [EKS with Self-Managed Node Groups using Terraform](https://github.com/Ganasai-Palakurthi/EKS_SelfManagedNodeGroups_Terraform.git)  
   *Automates deployment of Amazon EKS clusters with self-managed node groups using Terraform.*
 
+- **Personal Portfolio Website:**  
+  [Portfolio Website Repository](https://github.com/Ganasai-Palakurthi/portfolio.git)
+  *Designed and developed a personal portfolio website to showcase projects, technical skills, certifications, and professional experience, built with modern web technologies and responsive design.*
+
 ---
 
 ## 📫 Connect with Me
