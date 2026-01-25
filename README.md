@@ -95,9 +95,9 @@ I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over *
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/palakurthi-ganasai" target="_blank">💼 LinkedIn</a> &nbsp;&nbsp;
-  <a href="mailto:ganasaip98@gmail.com" target="_blank">✉️ Email</a> &nbsp;&nbsp;
-  <a href="https://medium.com/@ganasai88" target="_blank">📝 Medium</a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ganasai-palakurthi" target="_blank">💼 LinkedIn</a> &nbsp;&nbsp;
+  <a href="mailto:ganasaipalakurthi@gmail.com" target="_blank">✉️ Email</a> &nbsp;&nbsp;
+  <a href="https://medium.com/@GanasaiPalakurthi" target="_blank">📝 Medium</a> &nbsp;&nbsp;
 </p>
 
 ## 🏅 Badges
