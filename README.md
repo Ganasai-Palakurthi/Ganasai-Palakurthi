@@ -8,15 +8,14 @@ Passionate about **automation, scalable infrastructure, and reliable production 
 
 ## 💼 Professional Summary- **4+ years of experience** across application deployment, cloud infrastructure, and DevOps practices.
 
-- Hands-on experience managing the **full dev-to-production lifecycle**, including build, deployment, monitoring, and operational support.
-- Skilled in **CI/CD pipeline automation** using Jenkins and modern DevOps tooling.
-- Experience deploying **containerized applications** using Docker and Kubernetes.
-- Proficient in **Infrastructure as Code (IaC)** using Terraform for provisioning scalable cloud environments.
-- Experience with **AWS and GCP cloud services**, including compute, networking, and storage.
-- Background in **data engineering and distributed systems**, including Spark, Kafka, and ETL pipelines.
-- Strong experience in **Linux environments, scripting, and troubleshooting production systems**.
-- Experienced working in **Agile teams**, collaborating with developers, QA, and operations teams.
-
+- Hands-on experience managing the **full DevOps lifecycle**, including build, deployment, monitoring, and production support.
+- Strong experience in **CI/CD pipeline automation** using Jenkins and modern DevOps tools.
+- Experience deploying and managing **containerized applications** using Docker and Kubernetes.
+- Proficient in **Infrastructure as Code (IaC)** using Terraform for provisioning and managing cloud infrastructure.
+- Experience working with **cloud platforms (AWS & GCP)** including compute, networking, and storage services.
+- Strong experience in **Linux environments**, scripting (Bash/Python), and troubleshooting production systems.
+- Experience with **monitoring, logging, and alerting tools** to maintain system reliability and respond to production incidents.
+- Experienced working in **Agile environments**, collaborating with development and operations teams to support application delivery and infrastructure.
 ---
 
 ## 🎓 Education
