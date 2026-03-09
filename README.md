@@ -96,12 +96,6 @@ Passionate about **automation, scalable infrastructure, and reliable production 
   <a href="https://medium.com/@GanasaiPalakurthi" target="_blank">📝 Medium</a> &nbsp;&nbsp;
 </p>
 
-## 📊 GitHub Stats
-
-![Ganasai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganasai-Palakurthi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganasai-Palakurthi&layout=compact&theme=tokyonight)
-
 ## 🏅 Badges
 
 <p align="center">
