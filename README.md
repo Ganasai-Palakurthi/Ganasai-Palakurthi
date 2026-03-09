@@ -1,53 +1,50 @@
 # 👋 Hi There, Welcome to My Professional World!
 
-I'm **Ganasai Palakurthi**, a Full Stack Developer and Data Engineer with over **5 years of experience** in application development, full dev-to-prod lifecycle, CI/CD, deployments, cloud, and Data/AI/ML exploration.
+DevOps & Cloud Engineer with **4+ years of experience** building, deploying, and operating **cloud-native applications and infrastructure**.  
+Experienced in **CI/CD automation, Kubernetes-based deployments, Infrastructure as Code, and cloud platforms (AWS & GCP)**.
+Passionate about **automation, scalable infrastructure, and reliable production systems**.
 
 ---
 
-## 💼 Professional Summary
-- Around 5 years of experience in **application development, deployment, and CI/CD pipelines**.  
-- Experienced across the **full dev-to-prod lifecycle**, from design & analysis to production deployment.  
-- Skilled in **cloud platforms (AWS, GCP)**, **Docker**, **Kubernetes**, and building **scalable ETL/data pipelines**.  
-- Strong experience with **Java, JavaScript, SQL, Python**, and modern web technologies including **Angular, Spring Boot, and RESTful APIs**.  
-- Proficient in **RDBMS (Oracle, MySQL, SQL Server)** and **NoSQL databases (MongoDB, Cassandra)**.  
-- Hands-on experience with **data processing frameworks**: Spark (PySpark), Hadoop, Hive, Kafka, MLlib.  
-- Currently exploring **Data & AI/ML**, machine learning models, and big data analytics.  
-- Familiar with **DevOps best practices**: build tools (Maven, Gradle, Ant), CI/CD (Jenkins), containerization & orchestration (Docker, Kubernetes).  
-- Experienced in **software development methodologies**: Agile, Scrum, RUP, and using tools like Jira & Rally.  
-- Adept at collaborating in **cross-functional teams**, mentoring juniors, and driving **end-to-end project delivery**.  
-- Passionate about **innovation, cloud-native architectures, and data-driven solutions**, continuously learning new technologies.
+## 💼 Professional Summary- **4+ years of experience** across application deployment, cloud infrastructure, and DevOps practices.
+
+- Hands-on experience managing the **full dev-to-production lifecycle**, including build, deployment, monitoring, and operational support.
+- Skilled in **CI/CD pipeline automation** using Jenkins and modern DevOps tooling.
+- Experience deploying **containerized applications** using Docker and Kubernetes.
+- Proficient in **Infrastructure as Code (IaC)** using Terraform for provisioning scalable cloud environments.
+- Experience with **AWS and GCP cloud services**, including compute, networking, and storage.
+- Background in **data engineering and distributed systems**, including Spark, Kafka, and ETL pipelines.
+- Strong experience in **Linux environments, scripting, and troubleshooting production systems**.
+- Experienced working in **Agile teams**, collaborating with developers, QA, and operations teams.
 
 ---
 
 ## 🎓 Education
 
 - **Master's in Computer Science**, Kent State University, May 2025. 
-- will include few projects and courses
+
 - **Bachelor's in Electronics and Communication Engineering**, JNTUK, May 2019.  
-- should include few personal projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category                  | Technologies |
-|---------------------------|--------------|
-| **Operating Systems**     | Windows, Unix, Linux |
-| **Languages**             | Java, JavaScript, Python, SQL, HQL, PL/SQL |
-| **Java / J2EE Technologies** | Java EE, Servlets, JSP, JSTL, XSLT, JDBC, JNDI, JMS, JPA, JSF |
-| **Web Technologies**      | HTML5, CSS3, JavaScript, AJAX, Angular 4/5/6, Angular JS, Angular 14, jQuery, Express, Bootstrap |
-| **XML / Web Services**    | XML, XSD, SOA, WSDL, SOAP, Apache CXF, DOM, SAX, JAXWS, JAXRS, XML Beans, REST, JAXB, Restful |
-| **Frameworks**            | Struts, Hibernate ORM, Spring MVC, Spring Boot, Spring AOP, Selenium, Mockito, JUnit, Protractor, Cucumber |
-| **Databases**             | **RDBMS:** Oracle, MySQL, SQL-Server <br> **NoSQL:** MongoDB, Cassandra |
-| **Data & AI/ML**          | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Spark (PySpark), MLlib, Hadoop, Hive, Kafka |
-| **Web / Application Servers** | Apache Tomcat, JBoss, WebSphere, WebLogic |
-| **IDEs**                  | Eclipse, STS, IntelliJ, WebStorm |
-| **Orchestration**         | Control M, Airflow |
-| **Cloud / Platforms**     | **AWS:** IAM, EC2, CloudWatch, ELB, Elastic Beanstalk, VPC, S3, EBS, CloudFormation, Storage Gateway, AutoScaling, NLB, ALB, RDS, SNS, Route 53, Redshift, SageMaker, Athena, EMR, Glue, Kinesis <br> **GCP:** Compute Engine, Cloud Storage, VPC, BigQuery, Pub/Sub, Cloud Functions, Kubernetes Engine, Vertex AI, Dataflow, Dataproc, BigTable |
-| **Version Control & Tools** | GIT, SVN, JIRA, Rally |
-| **Methodologies**         | UML, RUP, Scrum, Jira, Agile |
-| **Build Tools**           | Ant, Maven, Gradle |
-| **DevOps Tools**          | Terraform, Docker, Jenkins, Kubernetes |
+| Category | Technologies |
+|--------|--------------|
+| **Operating Systems** | Linux, Unix, Windows |
+| **Cloud Platforms** | **AWS:** EC2, S3, IAM, VPC, ELB, Auto Scaling, CloudWatch, RDS <br> **GCP:** Compute Engine, Cloud Storage, VPC, BigQuery, Kubernetes Engine |
+| **Containerization** | Docker |
+| **Container Orchestration** | Kubernetes |
+| **CI/CD** | Jenkins, GitHub Actions |
+| **Infrastructure as Code** | Terraform |
+| **Monitoring & Logging** | CloudWatch, Splunk, New Relic |
+| **Programming & Scripting** | Python, Bash, Java |
+| **Version Control** | Git, SVN |
+| **Build Tools** | Maven, Gradle |
+| **Databases** | Oracle, MySQL, SQL Server, MongoDB, Cassandra |
+| **Data & Distributed Systems** | Apache Spark (PySpark), Kafka, Hadoop, Hive |
+| **Collaboration & Tracking** | Jira |
+| **Methodologies** | Agile, Scrum |
 
 
 ---
