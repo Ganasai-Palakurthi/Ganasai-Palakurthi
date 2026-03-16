@@ -12,7 +12,7 @@ Passionate about **automation, scalable infrastructure, and reliable production 
 - Strong experience in **CI/CD pipeline automation** using Jenkins and modern DevOps tools.
 - Experience deploying and managing **containerized applications** using Docker and Kubernetes.
 - Proficient in **Infrastructure as Code (IaC)** using Terraform for provisioning and managing cloud infrastructure.
-- Experience working with **cloud platforms (AWS & GCP)** including compute, networking, and storage services.
+- Experience working with **cloud platforms (AWS, AZURE & GCP)** including compute, networking, and storage services.
 - Strong experience in **Linux environments**, scripting (Bash/Python), and troubleshooting production systems.
 - Experience with **monitoring, logging, and alerting tools** to maintain system reliability and respond to production incidents.
 - Experienced working in **Agile environments**, collaborating with development and operations teams to support application delivery and infrastructure.
@@ -91,9 +91,9 @@ Passionate about **automation, scalable infrastructure, and reliable production 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ganasai-palakurthi" target="_blank">💼 LinkedIn</a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ganasai-palakurthi-devops/" target="_blank">💼 LinkedIn</a> &nbsp;&nbsp;
   <a href="mailto:ganasaipalakurthi@gmail.com" target="_blank">✉️ Email</a> &nbsp;&nbsp;
-  <a href="https://medium.com/@GanasaiPalakurthi" target="_blank">📝 Medium</a> &nbsp;&nbsp;
+  <a href="https://ganasaipalakurthi.medium.com/" target="_blank">📝 Medium</a> &nbsp;&nbsp;
 </p>
 
 ## 🏅 Badges
