@@ -1,12 +1,12 @@
 # 👋 Hi There, Welcome to My Professional World!
 
-DevOps & Cloud Engineer with **4+ years of experience** building, deploying, and operating **cloud-native applications and infrastructure**.  
+DevOps & Cloud Engineer with **5+ years of experience** building, deploying, and operating **cloud-native applications and infrastructure**.  
 Experienced in **CI/CD automation, Kubernetes-based deployments, Infrastructure as Code, and cloud platforms (AWS & GCP)**.
 Passionate about **automation, scalable infrastructure, and reliable production systems**.
 
 ---
 
-## 💼 Professional Summary- **4+ years of experience** across application deployment, cloud infrastructure, and DevOps practices.
+## 💼 Professional Summary- **5+ years of experience** across application deployment, cloud infrastructure, and DevOps practices.
 
 - Hands-on experience managing the **full DevOps lifecycle**, including build, deployment, monitoring, and production support.
 - Strong experience in **CI/CD pipeline automation** using Jenkins and modern DevOps tools.
@@ -31,7 +31,7 @@ Passionate about **automation, scalable infrastructure, and reliable production 
 | Category | Technologies |
 |--------|--------------|
 | **Operating Systems** | Linux, Unix, Windows |
-| **Cloud Platforms** | **AWS:** EC2, S3, IAM, VPC, ELB, Auto Scaling, CloudWatch, RDS <br> **GCP:** Compute Engine, Cloud Storage, VPC, BigQuery, Kubernetes Engine |
+| **Cloud Platforms** | **AWS**: EC2, S3, IAM, VPC, ELB, Auto Scaling, CloudWatch, RDS <br> **Azure**: Virtual Machines, Blob Storage, Virtual Network (VNet), Azure Kubernetes Service (AKS), Azure SQL Database, Azure Monitor, Azure Load Balancer <br> **GCP**: Compute Engine, Cloud Storage, VPC, BigQuery, Kubernetes Engine |
 | **Containerization** | Docker |
 | **Container Orchestration** | Kubernetes |
 | **CI/CD** | Jenkins, GitHub Actions |
