@@ -1,22 +1,22 @@
 # 👋 Hi There, Welcome to My Professional World!
 
-Data Engineer with **5+ years of experience** building, optimizing, and maintaining **scalable data pipelines, cloud-based data platforms, and analytics-ready data systems**.  
-Experienced in **ETL/ELT development, big data processing, cloud data engineering, and distributed systems** across **AWS, GCP, and modern data platforms**.  
-Passionate about **turning raw data into reliable, structured, and business-ready datasets** that support analytics, reporting, and downstream applications.
+Data Engineer with 5+ years of experience building scalable data pipelines and cloud-native data platforms, with strong expertise in **Snowflake-based ELT architectures**. Experienced in designing and optimizing data ingestion frameworks using **Snowflake features such as Snowpipe, External Tables, and batch processing (COPY INTO) from AWS S3**.
+
+Skilled in leveraging **Snowflake for data warehousing, transformation, and performance optimization**, along with **Apache Spark (PySpark)** for large-scale processing and **Kafka** for streaming and pipeline orchestration. Proven ability to transform raw data into high-quality, analytics-ready datasets that power **reporting**, **business intelligence**, and downstream applications.
 
 ---
 
 ## 💼 Professional Summary
 
 - **5+ years of experience** across software engineering, data engineering, cloud data platforms, and large-scale data processing.
-- Hands-on experience designing and supporting **end-to-end ETL/ELT pipelines** for ingesting, transforming, and loading structured and semi-structured data.
-- Strong experience working with **big data technologies** such as **Apache Spark, PySpark, Kafka, Hadoop, and Hive** for distributed data processing.
-- Experience building and managing **cloud-based data solutions** on **AWS, Azure, and GCP** using storage, compute, and analytics services.
-- Proficient in **SQL and Python** for data transformation, pipeline development, validation, and automation.
-- Experience working with **data warehouses and databases** including **Snowflake, Oracle, MySQL, SQL Server, MongoDB, and Cassandra**.
-- Strong understanding of **data modeling, schema design, performance tuning, and data quality validation** for analytical and operational use cases.
-- Experience supporting **batch and near real-time data pipelines**, integrating multiple data sources and ensuring reliable data delivery.
-- Skilled in **workflow automation, scripting, and production support**, with experience troubleshooting pipeline failures and optimizing job performance.
+- Hands-on experience designing and supporting **end-to-end Snowflake-based ETL/ELT pipelines** for ingesting, transforming, and loading structured and semi-structured data.
+- Strong experience working with **Snowflake (Snowpipe, External Tables, COPY INTO, Query Optimization)** along with **big data technologies** such as **Apache Spark (PySpark), Kafka, Hadoop, and Hive** for distributed data processing.
+- Experience building and managing **cloud-based data solutions** on **AWS (S3 integration with Snowflake), Azure, and GCP** using storage, compute, and analytics services.
+- Proficient in **SQL and Python** for **Snowflake data transformation, pipeline development, validation, and automation**.
+- Experience working with **data warehouses**, primarily **Snowflake**, along with databases including **Oracle, MySQL, SQL Server, MongoDB, and Cassandra**.
+- Strong understanding of **data modeling (star/snowflake schema), schema design, performance tuning, and data quality validation** for analytical and operational use cases.
+- Experience supporting **batch and near real-time data pipelines** using **Snowflake Snowpipe and S3-based ingestion frameworks**, ensuring reliable data delivery.
+- Skilled in **workflow automation, scripting, and production support**, including **monitoring Snowflake pipelines, troubleshooting failures, and optimizing query performance**.
 - Experienced in **Agile environments**, collaborating with cross-functional teams including application developers, analysts, QA teams, and cloud engineers.
 
 ---
