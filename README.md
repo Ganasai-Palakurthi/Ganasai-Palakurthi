@@ -1,21 +1,24 @@
 # 👋 Hi There, Welcome to My Professional World!
 
-DevOps & Cloud Engineer with **5+ years of experience** building, deploying, and operating **cloud-native applications and infrastructure**.  
-Experienced in **CI/CD automation, Kubernetes-based deployments, Infrastructure as Code, and cloud platforms (AWS & GCP)**.
-Passionate about **automation, scalable infrastructure, and reliable production systems**.
+Data Engineer with **5+ years of experience** building, optimizing, and maintaining **scalable data pipelines, cloud-based data platforms, and analytics-ready data systems**.  
+Experienced in **ETL/ELT development, big data processing, cloud data engineering, and distributed systems** across **AWS, GCP, and modern data platforms**.  
+Passionate about **turning raw data into reliable, structured, and business-ready datasets** that support analytics, reporting, and downstream applications.
 
 ---
 
-## 💼 Professional Summary- **5+ years of experience** across application deployment, cloud infrastructure, and DevOps practices.
+## 💼 Professional Summary
 
-- Hands-on experience managing the **full DevOps lifecycle**, including build, deployment, monitoring, and production support.
-- Strong experience in **CI/CD pipeline automation** using Jenkins and modern DevOps tools.
-- Experience deploying and managing **containerized applications** using Docker and Kubernetes.
-- Proficient in **Infrastructure as Code (IaC)** using Terraform for provisioning and managing cloud infrastructure.
-- Experience working with **cloud platforms (AWS, AZURE & GCP)** including compute, networking, and storage services.
-- Strong experience in **Linux environments**, scripting (Bash/Python), and troubleshooting production systems.
-- Experience with **monitoring, logging, and alerting tools** to maintain system reliability and respond to production incidents.
-- Experienced working in **Agile environments**, collaborating with development and operations teams to support application delivery and infrastructure.
+- **5+ years of experience** across software engineering, data engineering, cloud data platforms, and large-scale data processing.
+- Hands-on experience designing and supporting **end-to-end ETL/ELT pipelines** for ingesting, transforming, and loading structured and semi-structured data.
+- Strong experience working with **big data technologies** such as **Apache Spark, PySpark, Kafka, Hadoop, and Hive** for distributed data processing.
+- Experience building and managing **cloud-based data solutions** on **AWS, Azure, and GCP** using storage, compute, and analytics services.
+- Proficient in **SQL and Python** for data transformation, pipeline development, validation, and automation.
+- Experience working with **data warehouses and databases** including **Snowflake, Oracle, MySQL, SQL Server, MongoDB, and Cassandra**.
+- Strong understanding of **data modeling, schema design, performance tuning, and data quality validation** for analytical and operational use cases.
+- Experience supporting **batch and near real-time data pipelines**, integrating multiple data sources and ensuring reliable data delivery.
+- Skilled in **workflow automation, scripting, and production support**, with experience troubleshooting pipeline failures and optimizing job performance.
+- Experienced in **Agile environments**, collaborating with cross-functional teams including application developers, analysts, QA teams, and cloud engineers.
+
 ---
 
 ## 🎓 Education
@@ -30,19 +33,21 @@ Passionate about **automation, scalable infrastructure, and reliable production 
 
 | Category | Technologies |
 |--------|--------------|
-| **Operating Systems** | Linux, Unix, Windows |
-| **Cloud Platforms** | **AWS**: EC2, S3, IAM, VPC, ELB, Auto Scaling, CloudWatch, RDS <br> **Azure**: Virtual Machines, Blob Storage, Virtual Network (VNet), Azure Kubernetes Service (AKS), Azure SQL Database, Azure Monitor, Azure Load Balancer <br> **GCP**: Compute Engine, Cloud Storage, VPC, BigQuery, Kubernetes Engine |
+| **Data Warehousing (Primary)** | **Snowflake**: Virtual Warehouses, Snowpipe, External Tables, Stages (Internal/External), Time Travel, Zero-Copy Cloning, Streams & Tasks, Data Sharing, RBAC, Query Optimization, Micro-Partitioning, Result Caching, Warehouse Scaling, Query History & Performance Tuning |
+| **Cloud Platforms** | **AWS**: S3, EC2, IAM, VPC, RDS, EMR, Glue, Lambda, CloudWatch <br> **Azure**: Blob Storage, Data Factory, Azure SQL Database <br> **GCP**: Cloud Storage, BigQuery, Dataproc |
+| **Data Engineering & Processing** | Apache Spark (PySpark), Kafka, Hadoop, Hive, Spark SQL |
+| **ETL / ELT & Data Integration** | Snowflake ELT, Snowpipe (Near Real-Time Ingestion), Batch Ingestion (COPY INTO), S3 → Snowflake Pipelines, Data Transformation using SQL & PySpark |
+| **Databases** | Oracle, MySQL, SQL Server, MongoDB, Cassandra |
+| **Programming & Scripting** | Python, SQL, Bash, Java |
 | **Containerization** | Docker |
 | **Container Orchestration** | Kubernetes |
 | **CI/CD** | Jenkins, GitHub Actions |
 | **Infrastructure as Code** | Terraform |
 | **Monitoring & Logging** | CloudWatch, Splunk, New Relic |
-| **Programming & Scripting** | Python, Bash, Java |
 | **Version Control** | Git, SVN |
 | **Build Tools** | Maven, Gradle |
-| **Databases** | Oracle, MySQL, SQL Server, MongoDB, Cassandra |
-| **Data & Distributed Systems** | Apache Spark (PySpark), Kafka, Hadoop, Hive |
 | **Collaboration & Tracking** | Jira |
+| **Operating Systems** | Linux, Unix, Windows |
 | **Methodologies** | Agile, Scrum |
 
 
@@ -91,7 +96,7 @@ Passionate about **automation, scalable infrastructure, and reliable production 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ganasai-palakurthi-devops/" target="_blank">💼 LinkedIn</a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ganasai-palakurthi-data-engineer/" target="_blank">💼 LinkedIn</a> &nbsp;&nbsp;
   <a href="mailto:ganasaipalakurthi@gmail.com" target="_blank">✉️ Email</a> &nbsp;&nbsp;
   <a href="https://ganasaipalakurthi.medium.com/" target="_blank">📝 Medium</a> &nbsp;&nbsp;
 </p>
