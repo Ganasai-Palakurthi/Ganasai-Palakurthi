@@ -1,6 +1,6 @@
 # 👋 Hi There, Welcome to My Professional World!
 
-Data Engineer with 5+ years of experience building scalable data pipelines and cloud-native data platforms, with strong expertise in **Snowflake-based ELT architectures**. Experienced in designing and optimizing data ingestion frameworks using **Snowflake features such as Snowpipe, External Tables, and batch processing (COPY INTO) from AWS S3**.
+Data Engineer with 7+ years of experience building scalable data pipelines and cloud-native data platforms, with strong expertise in **Snowflake-based ELT architectures**. Experienced in designing and optimizing data ingestion frameworks using **Snowflake features such as Snowpipe, External Tables, and batch processing (COPY INTO) from AWS S3**.
 
 Skilled in leveraging **Snowflake for data warehousing, transformation, and performance optimization**, along with **Apache Spark (PySpark)** for large-scale processing and **Kafka** for streaming and pipeline orchestration. Proven ability to transform raw data into high-quality, analytics-ready datasets that power **reporting**, **business intelligence**, and downstream applications.
 
@@ -8,7 +8,7 @@ Skilled in leveraging **Snowflake for data warehousing, transformation, and perf
 
 ## 💼 Professional Summary
 
-- **5+ years of experience** across software engineering, data engineering, cloud data platforms, and large-scale data processing.
+- **7+ years of experience** across software engineering, data engineering, cloud data platforms, and large-scale data processing.
 - Hands-on experience designing and supporting **end-to-end Snowflake-based ETL/ELT pipelines** for ingesting, transforming, and loading structured and semi-structured data.
 - Strong experience working with **Snowflake (Snowpipe, External Tables, COPY INTO, Query Optimization)** along with **big data technologies** such as **Apache Spark (PySpark), Kafka, Hadoop, and Hive** for distributed data processing.
 - Experience building and managing **cloud-based data solutions** on **AWS (S3 integration with Snowflake), Azure, and GCP** using storage, compute, and analytics services.
